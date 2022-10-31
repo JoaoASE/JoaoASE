@@ -1,7 +1,7 @@
 <h1 align='center'>Olá, eu sou o João Augusto de Siqueira E. </h1><br/>
 <br/>
   
-<h2 align='center'>🚀 Transferido do 5º período no curso de Sistema de Informação na <img src="./images/logoUfs.svg" height="30" width="40"/><a href=https://www.ufs.br>Universidade Federal de Sergipe</a>.
+<h2 align='center'>🚀 Transferido do 5º período no curso de Sistema de Informação na UNA <a href=https://www.una.br/>Centro Universitário UNA</a>.
 </h2>
 <h2 align='center'>🎓 Atualmente no 4º período no curso de Sistema de Informação na <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Ufu_logo.svg" height="30" width="40" /><a href=https://www.ufu.br>Universidade Federal de Uberlândia</a>.
 </h2>
