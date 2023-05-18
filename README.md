@@ -1,8 +1,6 @@
 <!DOCTYPE html>
 <html>
-<head>
-  <title>Meu Perfil</title>
-</head>
+
 <body>
   <h1 align='center'>Olá, eu sou o João Augusto de Siqueira E.</h1><br/>
   <br/>
