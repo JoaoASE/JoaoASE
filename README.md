@@ -11,11 +11,7 @@
   <h2 align='center'>🎓 Atualmente no 4º período no curso de Sistema de Informação na <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/Ufu_logo.svg" height="30" width="40" /><a href=https://www.ufu.br>Universidade Federal de Uberlândia</a>.</h2>
 
   <br/> 
-  <div align='center'>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoASE&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoASE&layout=compact&langs_count=8&theme=dark"/>
-  </div>
-  <br/> 
+  
 
   ## 👉 Redes Sociais
 
