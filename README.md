@@ -20,7 +20,7 @@
   <br/>
   <br/>
   
-  ## 💻 Linguagens de Programação
+  ## 💻 Linguagens 
 
   <br/>
   <p align="left" >
