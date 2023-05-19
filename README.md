@@ -39,6 +39,9 @@
     <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank">
       <img align="left" alt="CSS" width="28px" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg" />
     </a>
+    <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank">
+      <img align="left" alt="CSS" width="28px" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg" />
+    </a>
   </p>
 
   ### 🧰 Softwares:
