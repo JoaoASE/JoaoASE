@@ -40,7 +40,7 @@
       <img align="left" alt="CSS" width="28px" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg" />
     </a>
     <a href="https://dotnet.microsoft.com/en-us/" target="_blank">
-      <img align="left" alt="CSS" width="28px" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg" />
+      <img align="left" alt="Dot Net" width="28px" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg" />
     </a>
   </p>
 
@@ -52,8 +52,8 @@
     <a href="http://www.spyder-ide.org" target="_blank">
       <img align="center" alt="Spyder" height="28px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Spyder_logo.svg" />
     </a>
-    <a href="https://developer.android.com/studio?hl=pt&gclid=Cj0KCQjw5PGFBhC2ARIsAIFIMNeSR2C0Gc17zpGKseNSAozf0f4GK4elcRl69-SfYcOEu5ry8anRzWoaAlNdEALw_wcB&gclsrc=aw.ds"       target="_blank">
-      <img align="center" alt="Android Studio" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Android_Studio_Icon_%282014-2019%29.svg/712px-Android_Studio_Icon_%282014-2019%29.svg.png" />
+    <a href="https://jupyter.org/"       target="_blank">
+      <img align="center" alt="Jupyter Notebook" height="26px" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg" />
     </a>
     <a href="https://insomnia.rest/" target="_blank">
       <img align="center" alt="Insomnia" width="26px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/insomnia.svg" />
