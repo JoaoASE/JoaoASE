@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working at **Algar Telecom**
 
-- 🌱 I’m currently learning **Flask, Postman, .NET**
+- 🌱 I’m currently learning **Flask, FastAPI, Django**
 
 - 📫 How to reach me **jasiqueira174@gmail.com**
 
