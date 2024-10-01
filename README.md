@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joaoase&label=Profile%20views&color=0e75b6&style=flat" alt="joaoase" /> </p>
 
-- 🔭 I’m currently working at **Algar Telecom**
+- 🔭 I’m currently working at **Outlier**
 
 - 🌱 I’m currently learning **Flask, FastAPI, Django**
 
